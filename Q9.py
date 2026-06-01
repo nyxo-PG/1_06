@@ -9,5 +9,5 @@ elif marks >= 60:
     print("Grade: D")
 elif marks >= 50:
     print("Grade: E")
-elif marks < 50:
+else:
     print("Grade: F")
